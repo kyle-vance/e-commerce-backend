@@ -5,6 +5,8 @@
 ## Description
 This application is built to allow an online or in-store merchant to easily keep track of inventory by displaying products, categories, tags. It features the ability to also add, update, or delete these. 
 
+Here is a link to a video demonstration of the application: https://drive.google.com/file/d/1i94BThvodePq2OOQUJ0q-GsZ_aYniQ2v/view
+
 ---
 
 ## Table of Contents
